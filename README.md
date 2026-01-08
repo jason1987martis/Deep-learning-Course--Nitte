@@ -106,7 +106,7 @@ You may also run these notebooks using:
 
 Simply upload the .ipynb files or open them directly from GitHub.
 
-### 🧠 Learning Philosophy
+## 🧠 Learning Philosophy
 
 These notebooks are educational, not production-ready.
 
@@ -118,7 +118,7 @@ Students are encouraged to:
 2. Experiment with parameters
 3. Explore alternative architectures
 
-### 📌 Notes for Students
+## 📌 Notes for Students
 Read the markdown explanations in each notebook carefully.
 Run cells in order.
 
