@@ -65,8 +65,9 @@ Topics include:
 
 ### 🔹 Restricted Boltzmann Machines
 - [rbm_boltzmann.ipynb](https://github.com/jason1987martis/Deep-learning-Course--Nitte/blob/main/rbm_boltzmann.ipynb)
+- [rbm_boltzmann_keras.ipynb](https://github.com/jason1987martis/Deep-learning-Course--Nitte/blob/main/rbm_boltzmann_keras.ipynb)
 
-This notebook introduces:
+These notebooks introduce:
 - Boltzmann machines
 - Restricted Boltzmann Machines (RBMs)
 - Unsupervised learning concepts
